@@ -1,0 +1,40 @@
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+SET
+$12
+CurrentPrice
+$672
+{"time":{"updated":"Jan 12, 2020 19:54:00 UTC","updatedISO":"2020-01-12T19:54:00+00:00","updateduk":"Jan 12, 2020 at 19:54 GMT"},"disclaimer":"This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org","chartName":"Bitcoin","bpi":{"USD":{"code":"USD","symbol":"&#36;","rate":"8,119.6050","description":"United States Dollar","rate_float":8119.605},"GBP":{"code":"GBP","symbol":"&pound;","rate":"6,215.0136","description":"British Pound Sterling","rate_float":6215.0136},"EUR":{"code":"EUR","symbol":"&euro;","rate":"7,301.8065","description":"Euro","rate_float":7301.8065}}}
+*3
+$6
+GETSET
+$12
+CurrentPrice
+$672
+{"time":{"updated":"Jan 12, 2020 19:54:00 UTC","updatedISO":"2020-01-12T19:54:00+00:00","updateduk":"Jan 12, 2020 at 19:54 GMT"},"disclaimer":"This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org","chartName":"Bitcoin","bpi":{"USD":{"code":"USD","symbol":"&#36;","rate":"8,119.6050","description":"United States Dollar","rate_float":8119.605},"GBP":{"code":"GBP","symbol":"&pound;","rate":"6,215.0136","description":"British Pound Sterling","rate_float":6215.0136},"EUR":{"code":"EUR","symbol":"&euro;","rate":"7,301.8065","description":"Euro","rate_float":7301.8065}}}
+*3
+$6
+GETSET
+$12
+CurrentPrice
+$673
+{"time":{"updated":"Jan 12, 2020 19:55:00 UTC","updatedISO":"2020-01-12T19:55:00+00:00","updateduk":"Jan 12, 2020 at 19:55 GMT"},"disclaimer":"This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org","chartName":"Bitcoin","bpi":{"USD":{"code":"USD","symbol":"&#36;","rate":"8,119.2967","description":"United States Dollar","rate_float":8119.2967},"GBP":{"code":"GBP","symbol":"&pound;","rate":"6,214.7776","description":"British Pound Sterling","rate_float":6214.7776},"EUR":{"code":"EUR","symbol":"&euro;","rate":"7,301.5292","description":"Euro","rate_float":7301.5292}}}
+*3
+$6
+GETSET
+$12
+CurrentPrice
+$673
+{"time":{"updated":"Jan 12, 2020 19:56:00 UTC","updatedISO":"2020-01-12T19:56:00+00:00","updateduk":"Jan 12, 2020 at 19:56 GMT"},"disclaimer":"This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org","chartName":"Bitcoin","bpi":{"USD":{"code":"USD","symbol":"&#36;","rate":"8,118.1033","description":"United States Dollar","rate_float":8118.1033},"GBP":{"code":"GBP","symbol":"&pound;","rate":"6,213.8642","description":"British Pound Sterling","rate_float":6213.8642},"EUR":{"code":"EUR","symbol":"&euro;","rate":"7,300.4561","description":"Euro","rate_float":7300.4561}}}
+*3
+$6
+GETSET
+$12
+CurrentPrice
+$673
+{"time":{"updated":"Jan 12, 2020 19:57:00 UTC","updatedISO":"2020-01-12T19:57:00+00:00","updateduk":"Jan 12, 2020 at 19:57 GMT"},"disclaimer":"This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org","chartName":"Bitcoin","bpi":{"USD":{"code":"USD","symbol":"&#36;","rate":"8,117.9083","description":"United States Dollar","rate_float":8117.9083},"GBP":{"code":"GBP","symbol":"&pound;","rate":"6,213.7149","description":"British Pound Sterling","rate_float":6213.7149},"EUR":{"code":"EUR","symbol":"&euro;","rate":"7,300.2807","description":"Euro","rate_float":7300.2807}}}
