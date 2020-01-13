@@ -1,5 +1,12 @@
-# lipo
+# Lipo Ejercicios
 Ejercicio 1:
+Un servicio que consuma la siguiente api: http://api.coindesk.com/v1/bpi/currentprice.json
+* Considere una concurrencia de 1M de consultas por minuto. Obtenga los datos de dicha apì, imaginando que la misma no soporta tal cantidad de requests, logrando una respuesta rápida al cliente y teniendo la info actualizada. 
+* El backend debe ser realizado con Spring Boot, db a elección y docker / docker-compose
+* El frontend debe ser realizado con Angular o React
+Agregar un README.md con:
+  - Pasos para el deploy 
+  - Arquitectura mínima para que soporte el tráfico de usuarios mencionado
 
 
 Arquitectura seleccionada:
