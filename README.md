@@ -37,10 +37,10 @@ Imagine que tiene un archivo de 1 peta, con info sobre viajes. Como obtendría l
 
 #### Solución planteada:
 Para este ejercicio utilizaría una arquiterctura basada en **Elasticsearch en AWS** dado que la información es estática y se puede routear fácilmente de esta manera. De esta forma será fácilmente escalable y seguro.
-Este servicio permite obtener una gran cantidad de operaciones que permiten utilizar la información de una forma sencilla. Creando Cluster y Nodos donde se indexará la información y la permitirá acceder de forma rápida y segura.
+Este servicio nos da la posibilidad de obtener una gran cantidad de operaciones que permiten utilizar la información de una forma sencilla. Creando Cluster y Nodos donde se indexará la información, según lo definamos, y donde nos permitirá acceder de forma rápida y segura mediantes las APIs.
 Se puede cargar la información en un S3 y se indexará para su uso mediantes las APIs y se podrá actualizar cuando lleguen nuevos documentos o nueva información.
 Una vez indexada la información, se podrá acceder de forma rápida y sencilla mediante las REST API que se proponen.
-Entonces configurado y subida la información deberíamos poder utilizar los Nodos definidos para obtener la información en formato JSON y mostrarla en un dashboard, obtener gráficos y estadísticas de forma rápida.
+Entonces configurado y subida la información deberíamos poder utilizar los Nodos definidos para obtener la información en formato JSON y mostrarla en un dashboard, obtener gráficos y estadísticas de forma rápida. También se puede hacer uso de herramientas como Kibana para explotar esa información y poder de forma rápida poder definir lo que se puede construir para luegos mostrar en alguna UI.
 Si la información es estática, de igual forma que en el ejercicio anterior, se podrá actualziar la misma y utilizar cache para mejorar los tiempos de respuesta.
 
 
