@@ -36,7 +36,7 @@ Al no llegar a hacer el Front-End, el servicio que consultaría el mismo sería:
 Imagine que tiene un archivo de 1 peta, con info sobre viajes. Como obtendría la información del mismo para proveer de manera óptima a un dashboard, gráficos y estadísticas, en un tiempo razonable. 
 
 #### Solución planteada:
-Para este ejercicio utilizaría una arquiterctura basada en *Elasticsearch* en AWS dado que la información es estática y se puede routear fácilmente de esta manera. De esta forma será fácilmente escalable y seguro.
+Para este ejercicio utilizaría una arquiterctura basada en **Elasticsearch en AWS** dado que la información es estática y se puede routear fácilmente de esta manera. De esta forma será fácilmente escalable y seguro.
 Este servicio permite obtener una gran cantidad de operaciones que permiten utilizar la información de una forma sencilla. Creando Cluster y Nodos donde se indexará la información y la permitirá acceder de forma rápida y segura.
 Se puede cargar la información en un S3 y se indexará para su uso mediantes las APIs y se podrá actualizar cuando lleguen nuevos documentos o nueva información.
 Una vez indexada la información, se podrá acceder de forma rápida y sencilla mediante las REST API que se proponen.
